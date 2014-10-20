@@ -1,0 +1,52 @@
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual C#\德育测评系统\德育测评系统\bin\Debug\MySQLDriverCS.dll
+E:\Visual C#\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.exe
+E:\Visual C#\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.pdb
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmIndex.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmLogIn.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.Properties.Resources.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.exe
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.pdb
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmHistory.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmModel.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmPersonInfo.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmPointExchanged.resources
+E:\Visual C#\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmSummarize.resources
+E:\项目\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.exe
+E:\项目\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.pdb
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.exe
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.pdb
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.exe
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.pdb
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmHistory.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmIndex.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmLogIn.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmModel.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmPersonInfo.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmPointExchanged.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.Properties.Resources.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmSummarize.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MySQLDriverCS.dll
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmClass.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmEvaItem.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmClassInfo.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmAdAdmin.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.exe.config
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\bin\Debug\IrisSkin2.dll
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmAddSemester.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmSemester.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmUpDateSemester.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmRecord.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmAdminEditor.resources
+E:\Visual C#\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.FrmAdStudent.resources
+J:\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.exe.config
+J:\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.exe
+J:\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.pdb
+D:\桌面\程序\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\bin\Debug\MoralEvaluated.exe.config
+D:\桌面\程序\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.exe
+D:\桌面\程序\德育测评系统\德育测评系统12.9\德育测评系统\德育测评系统\德育测评系统\obj\x86\Debug\MoralEvaluated.pdb
